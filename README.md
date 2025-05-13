@@ -17,8 +17,8 @@ Una vez que tengas todo instalado, creá una carpeta en tu computadora donde qui
 Dentro de esa carpeta, ejecutá los siguientes comandos:
 
 git init
-git clone https://github.com/IgnacioSaAn/manifiestosTD5.git
-git clone https://github.com/IgnacioSaAn/static-website2.git
+git clone https://github.com/"nombre del usuario"/manifiestosTD5.git
+git clone https://github.com/"nombre del usuario"/static-website2.git
 
 INICIAR MINIKUBE
 
